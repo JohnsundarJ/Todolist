@@ -1,0 +1,12 @@
+.isItemCompleted-done {
+  text-decoration: line-through;
+}
+
+.item{   
+    box-shadow: 2px 2px 2px 2px rgb(148, 130, 130);
+    border: 4px rgb(114, 93, 93);
+    margin: 10px;
+    padding: 10px;
+    text-align: left
+}
+
